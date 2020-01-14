@@ -13,6 +13,7 @@ namespace ContosoCrafts.WebSite
     {
         public static void Main(string[] args)
         {
+            //制作主机的主体
             CreateHostBuilder(args).Build().Run();
         }
 
